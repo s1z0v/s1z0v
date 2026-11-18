@@ -35,8 +35,8 @@ S1-ADV builds on OmniBot. See the repository's credits for the upstream foundati
 - **Applied AI:** LLM integration, agents, MCP, retrieval and automated verification.
 - **Delivery and operations:** Linux, Docker, Docker Swarm, Ansible, GitLab CI/CD, Nginx, Traefik and HAProxy.
 
-## Work with me
+## Connect
 
-Available for remote software architecture, AI engineering and technical leadership roles, including full-time and contract work. I also welcome product, partnership and investment conversations about Homio.
+Connect with me to discuss software architecture, applied AI, product development or Homio.
 
 [Contact me on LinkedIn](https://www.linkedin.com/in/s1z0v/)
